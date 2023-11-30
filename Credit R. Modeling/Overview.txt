@@ -1,0 +1,21 @@
+Credit risk is an important topic in the field of finance because banks and other financial institutions heavily invest in reducing their credit risk.
+
+There is an element of risk when these financial institutions lend money to clients. So ideally,to reduce their risk and loan money only to clients they are sure are going to pay them back.
+
+Project goal: The objective of this project is to build a model to predict probability of a client defaulting a loan.
+
+Defaulting on a loan is the failure of a borrower to pay the principal or interest on a security or loan.
+
+The dataset has been collected from the UCI machine learning repository
+
+The following steps will be followed in building the model.
+
+Data preparation and Pre-processing
+
+Exploratory Data Analysis
+
+Feature Engineering and Selection
+
+Model Development and Model Evaluation
+
+Hyperparameter Tuning
